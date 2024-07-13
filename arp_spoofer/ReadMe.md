@@ -1,7 +1,7 @@
-ARP SPOOFER
+# ARP SPOOFER
 ----------------------------------------------------------------------------------------------------------------------------
 
-MAIN IDEA OF THE PROJECT:
+# MAIN IDEA OF THE PROJECT:
 -------------------------
 This project implements an ARP spoofing tool using Python and Flask to simulate network traffic manipulation by spoofing MAC addresses.
 
@@ -22,7 +22,7 @@ We built a Flask application that continuously sends ARP spoofing packets to a s
 This project serves as a practical demonstration of network vulnerabilities, helping network administrators recognize and mitigate ARP spoofing threats in real-world environments.
 
 
-CODE AND TOOLS OVERVIEW:
+# CODE AND TOOLS OVERVIEW:
 ------------------------
 **Methods:**
 ```
@@ -39,11 +39,10 @@ CODE AND TOOLS OVERVIEW:
 - Threading: Used to run ARP spoofing in a separate thread, ensuring application responsiveness.
 ```
 
-# DISCLAIMER
+## DISCLAIMER
 
 This project is intended for educational purposes only. Unauthorized access to networks or manipulation of network traffic without consent is illegal and unethical.
 
-# WARNING
+## WARNING
 
 Engaging in ARP spoofing or any form of network attacks can have serious legal consequences. Ensure you have permission before testing any network and understand the implications of your actions.
-      
