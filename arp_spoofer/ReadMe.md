@@ -6,15 +6,19 @@ MAIN IDEA OF THE PROJECT:
 This project implements an ARP spoofing tool using Python and Flask to simulate network traffic manipulation by spoofing MAC addresses.
 
 **PURPOSE:**
+
 The purpose of this project is to demonstrate ARP spoofing for educational use, highlighting vulnerabilities in network security and how attackers can manipulate network traffic.
 
 **ARP Protocol (Address Resolution Protocol):**
+
 It is a network protocol that resolves IP addresses to MAC addresses within a local network, facilitating communication between devices.
 
 **WHAT WE DID:**
+
 We built a Flask application that continuously sends ARP spoofing packets to a specified target IP address and its gateway. The application retrieves MAC addresses, sends spoofed ARP packets, and dynamically prints the spoofed MAC address.
 
 **WHY DO WE DO THIS:**
+
 This project serves as a practical demonstration of network vulnerabilities, helping network administrators recognize and mitigate ARP spoofing threats in real-world environments.
 
 
