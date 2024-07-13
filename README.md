@@ -1,5 +1,5 @@
 # Cyber Security Projects
-Collection of Cyber Secuirty Projects wriiten in Python Script
+Collection of Cyber Security Projects written in Python Script
 
 ## DISCLAIMER
 This project is intended for educational purposes only. Unauthorized access to networks or manipulation of network traffic without consent is illegal and unethical.
